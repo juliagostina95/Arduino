@@ -2,7 +2,9 @@
 
 Info sobre dfplayer:
 Alan -----> https://alainsprojects.com/2020/03/06/df-player-mini-configuration/
+
 Sergio -----> https://www.youtube.com/watch?v=SdT-sha7oCw&list=PLfRWIe3Rv4115lZp2-ChjPrX-Kw_DJlaI&index=2 Explica todo perfecto 
+
 Vt en linea -----> https://www.youtube.com/watch?v=WbrP9TyMr9E&list=PLfRWIe3Rv4115lZp2-ChjPrX-Kw_DJlaI&index=4
 
 Tipo de Archivo a cargar al DFPlayer:
