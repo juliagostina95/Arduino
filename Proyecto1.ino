@@ -60,3 +60,4 @@ int ultrasonido () {
   DISTANCIA = DURACION / 58.2;    // distancia medida en centimetros
   return (DISTANCIA);             //devuelve valor del 0 al 30
  
+}
